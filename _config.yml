@@ -10,8 +10,8 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/profilna.jpg
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Dimitrije Stamenic
+    description : Computer Science Student at the University of Belgrade
     experience :
       - start : 2017-05-03
         end : 2018-05-06
