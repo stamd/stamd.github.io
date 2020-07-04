@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: ""
-url : "https://naye0ng.github.io"
+baseurl: "https://stamd.github.io"
+url : "https://stamd.github.io"
 
 # Blog Settings
 theme_settings :
