@@ -7,8 +7,10 @@ layout: page
   <ul class="tag-cloud">
     {% for tag in site.tags %}
     <a href="#{{ tag | first | slugize }}">
-      <li class="tag"
-        style="background-color: rgba(182,208,228 {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 50 | divided_by: 100.0}})">
+      <!-- <li class="tag"
+        style="background-color: rgba(47,72,88,1 {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 50 | divided_by: 100.0}})"> -->
+        <li class="tag"
+        style="background-color: rgba(47,72,88,1)">
         {{ tag | first }}
         <span class="meta">{{ tag | last | size }}</span>
       </li>
