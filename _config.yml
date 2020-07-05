@@ -5,7 +5,7 @@ url : "https://stamd.github.io"
 # Blog Settings
 theme_settings :
   title : Dimitrije Stamenic
-  favicon : assets/favicon.ico
+  favicon : assets/stamdIcon.ico
 
   # Profile Settings
   profile :
