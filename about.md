@@ -6,7 +6,7 @@ layout: page
 
 ### Dimitrije Stamenic 
 
-📝 Technical Writer & Editor | Software Development Enthusiast
+Technical Writer & Editor | Software Development Enthusiast
 
 🔍 **About Me**: Passionate about translating complex technical concepts into accessible, engaging content, I am a seasoned Technical Writer and Editor. With a solid background in software development, I bring a unique blend of technical expertise and writing proficiency to every project.
 
