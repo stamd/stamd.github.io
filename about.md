@@ -4,42 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+### Dimitrije Stamenic 
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+📝 Technical Writer & Editor | Software Development Enthusiast
 
-<h2>Skills</h2>
+🔍 **About Me**: Passionate about translating complex technical concepts into accessible, engaging content, I am a seasoned Technical Writer and Editor. With a solid background in software development, I bring a unique blend of technical expertise and writing proficiency to every project.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+💼 **Experience**: As a Technical Writer and Editor, I specialize in crafting comprehensive tutorials, guides, and documentation for a wide range of software development topics. 
 
-<h2>Projects</h2>
+🏆 **Achievements**: Throughout my career, I have received accolades for my attention to detail, dedication to quality, and ability to meet tight deadlines without compromising on excellence. My commitment to continuous improvement and passion for technology have driven me to excel in every project I undertake.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+🌐 **Connect With Me**: I am always eager to connect with fellow professionals, collaborators, and enthusiasts in the tech community. Let's connect to explore opportunities for collaboration, knowledge sharing, and mutual growth.
