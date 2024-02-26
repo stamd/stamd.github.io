@@ -13,9 +13,9 @@ layout: page
     </div>
 
     <div class="toright">
-        <p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a seasoned technical writer and editor with <strong>more than 200 content pieces published</strong> in the past several years. 
+        <p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a seasoned technical writer and editor with <strong>more than 200 content pieces published</strong> in the past several years.</p>
 
-I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>. </p>
+<p>I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>. </p>
     </div>
 </div>
 
