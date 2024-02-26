@@ -6,14 +6,10 @@ layout: page
 
 # Get to know me
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="https://stamd.github.io/assets/images/stamd-profile.png" alt="Dimitrije Stamenic">
-        <figcaption class="caption">Dimitrije Stamenic</figcaption>
-    </div>
+<img class="image" src="https://stamd.github.io/assets/images/stamd-profile.png" alt="Dimitrije Stamenic">
+<figcaption class="caption">Dimitrije Stamenic</figcaption>
 
-    <div class="toright">
-        <p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a seasoned technical writer and editor with <strong>more than 200 content pieces published</strong> in the past several years.</p>
+<p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a seasoned technical writer and editor with <strong>more than 200 content pieces published</strong> in the past couple of years.</p>
 
 <p>I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>. </p>
     </div>
@@ -24,8 +20,6 @@ layout: page
 ### Experience
 
 I specialize in **crafting comprehensive tutorials, guides, and courses** for a wide range of software development topics. 
-
-###I contributed to numerous articles, and since I started writing in 2021, I published 200+ articles on various computer science topics.
 
 > I hope that the content I produce help aspiring and experienced developers alike to deepen their understanding of programming concepts and techniques
 
