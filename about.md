@@ -7,15 +7,12 @@ layout: page
 # Get to know me
 
 <img class="image" src="https://stamd.github.io/assets/images/stamd-profile.png" alt="Dimitrije Stamenic">
-<figcaption class="caption">Dimitrije Stamenic</figcaption>
 
-<p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a seasoned technical writer and editor with <strong>more than 200 content pieces published</strong> in the past couple of years.</p>
+<p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a technical writer and editor with <strong>more than 200 content pieces published</strong> in the past couple of years.</p>
 
-<p>I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>. </p>
-    </div>
-</div>
+<p>I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>.</p>
 
-<span class="evidence">With a solid background in software development, I can help you bring a _unique blend of technical expertise and writing proficiency_ to your projects.</span>
+<span class="evidence">With a solid background in software development, my perspective can help you bring a _unique blend of technical expertise and writing proficiency_ to your projects.</span>
 
 ### Experience
 
