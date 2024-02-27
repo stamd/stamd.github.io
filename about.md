@@ -6,9 +6,9 @@ layout: page
 
 # Get to know me
 
-<img class="image" src="https://stamd.github.io/assets/images/stamd-profile.png" alt="Dimitrije Stamenic">
+<img class="selfie" src="https://stamd.github.io/assets/images/stamd-profile.png" alt="Dimitrije Stamenic">
 
-<p>Hi there!👋🏼 I'm Dimitrije <em>(dee-mee-tree-yee)</em>, a technical writer and editor with <strong>more than 200 content pieces published</strong> in the past couple of years.</p>
+<p>Hi there👋🏼 I'm Dimitrije <em>(pronounced: dee-mee-tree-yee)</em>, a technical writer/editor and software developer with <strong>more than 200 content pieces published</strong> in the past couple of years.</p>
 
 <p>I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>.</p>
 
@@ -18,7 +18,7 @@ layout: page
 
 I specialize in **crafting comprehensive tutorials, guides, and courses** for a wide range of software development topics. 
 
-> I hope that the content I produce help aspiring and experienced developers alike to deepen their understanding of programming concepts and techniques
+> My goal is to produce the content that helps aspiring and experienced developers alike to deepen their understanding of programming concepts and techniques
 
 My work covers a wide range of programming topics, with a particular focus on **Python** and **JavaScript**, including guides on algorithms, data structures, and various design patterns. 
 
