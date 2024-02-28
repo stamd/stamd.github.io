@@ -6,15 +6,13 @@ layout: page
 
 # Get to know me
 
-<img class="selfie" src="https://stamd.github.io/assets/images/stamd-profile.png" alt="Dimitrije Stamenic">
+Hi there👋🏼 I'm Dimitrije _(pronounced: dee-mee-tree-yee)_, a technical writer/editor and software developer with **more than 200 content pieces published** in the past couple of years.
 
-<p>Hi there👋🏼 I'm Dimitrije <em>(pronounced: dee-mee-tree-yee)</em>, a technical writer/editor and software developer with <strong>more than 200 content pieces published</strong> in the past couple of years.</p>
-
-<p>I'm passionate about <strong>translating complex technical concepts into accessible, engaging content</strong>.</p>
+I'm passionate about **translating complex technical concepts into accessible, engaging content**.
 
 <span class="evidence">With a solid background in software development, my perspective can help you bring a _unique blend of technical expertise and writing proficiency_ to your projects.</span>
 
-### Experience
+# How Can I Help You?
 
 I specialize in **crafting comprehensive tutorials, guides, and courses** for a wide range of software development topics. 
 
@@ -29,12 +27,12 @@ My work covers a wide range of programming topics, with a particular focus on **
 
 > My commitment to continuous improvement and passion for technology have driven me to excel in every project I undertake.
 
-### Let's Connect!
+# Let's Connect!
 
 I am always more than happy to connect with fellow professionals, collaborators, and enthusiasts in the tech community!
 
 Let's connect to explore opportunities for collaboration, knowledge sharing, and mutual growth.
 
-- LinkedIn
-- GitHub
-- Or just email me!
+- <a href="https://www.linkedin.com/in/stamd/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/stamd" target="_blank">GitHub</a>
+- <a href="mailto:stamenicdimitrije@gmail.com">Or just email me!</a>
