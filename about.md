@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-# Get to know me
+# Who Am I?
 
 Hi there👋🏼 I'm Dimitrije _(pronounced: dee-mee-tree-yee)_, a technical writer/editor and software developer with **more than 200 content pieces published** in the past couple of years.
 
