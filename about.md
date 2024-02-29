@@ -10,19 +10,23 @@ Hi there👋🏼 I'm Dimitrije _(pronounced: dee-mee-tree-ye)_, a technical edit
 
 I'm passionate about **translating complex technical concepts into accessible, engaging content**. 
 
-_Kind of a cliche, but it's true_ - there's nothing better than when you realize you've just digested a complex topic in a way that even a beginner can understand it. 
+> _Kind of a cliche, but it's true_ - there's nothing better than when you realize you've just digested a complex topic in a way that even a beginner can understand it. 
 
-> With _a solid background in software development_, my perspective can help you bring a **unique blend of technical expertise and writing proficiency** to your projects.
+<span class="evidence">With _a solid background in software development_, my perspective can help you bring a **unique blend of technical expertise and writing proficiency** to your projects.</span>
+
+<div class="breaker"></div>
 
 # How Can I Help You?
 
 <span class="evidence">I specialize in **crafting comprehensive tutorials, guides, and courses** for a wide range of software development topics. </span>
 
-> My goal is to produce the content that helps aspiring and experienced developers alike to deepen their understanding of programming concepts and techniques
+> My goal is to help aspiring and experienced developers alike to **deepen their understanding of programming concepts and techniques**
 
 My work covers a wide range of programming topics, with a particular focus on **Python** and **JavaScript**, including guides on algorithms, data structures, and various design patterns. 
 
 Throughout my career, I've established a reputation as someone recognizable for my **attention to detail, dedication to quality, and ability to meet tight deadlines without compromising on quality**.
+
+<div class="breaker"></div>
 
 # Experience
 
@@ -50,6 +54,8 @@ Throughout my career, I've established a reputation as someone recognizable for 
 -  _Covered the entire **REST API** with unit tests_ using **Mocha/Chai** ensuring stable CI/CD procedures
 - Updating existing and creating new API endpoints
 - Updating the  UI elements to facilitate the API changes
+
+<div class="breaker"></div>
 
 # Let's Connect!
 
