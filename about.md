@@ -6,7 +6,7 @@ layout: page
 
 # Who Am I?
 
-Hi there👋🏼 I'm Dimitrije _(pronounced: dee-mee-tree-yee)_, a technical editor/writer and software developer with **more than 200 content pieces published** in the past couple of years.
+Hi there👋🏼 I'm Dimitrije _(pronounced: dee-mee-tree-ye)_, a technical editor/writer and software developer with **more than 200 content pieces published** in the past couple of years.
 
 I'm passionate about **translating complex technical concepts into accessible, engaging content**.
 
@@ -20,31 +20,34 @@ I specialize in **crafting comprehensive tutorials, guides, and courses** for a 
 
 My work covers a wide range of programming topics, with a particular focus on **Python** and **JavaScript**, including guides on algorithms, data structures, and various design patterns. 
 
-
-### Achievements
-
 <span class="evidence">Throughout my career, I've established a reputation as someone recognizable for my **attention to detail, dedication to quality, and ability to meet tight deadlines without compromising on excellence**.</span>
 
 # Experience
 
-## Technical Writer
+## **Technical Writer**
 
 - 3+ years of experience
-- 150+ published articles read by hundreds of thousands readers
-- Writing SEO-friendly, comprehensive articles (generally long-form,  1500+ words per article)
+- 150+ published articles **read by hundreds of thousands of readers**
+- Writing **SEO-friendly,** comprehensive articles (generally long-form,  1500+ words per article)
 - Common  topics: data structures, algorithms, library/tool overviews, databases, Python, JavaScript, Unix/Bash scripting, SQL, and much more
-- You can take a look at the mayority of articles I wrote [here](https://stackabuse.com/author/stamd/)
+- You can take a look at the majority of articles I wrote [here](https://stackabuse.com/author/stamd/)
 
-## Technical Editor
+## **Technical Editor**
 
 - 2+ years of experience
-- Finding interesting topics and doing keyword research
+- Finding interesting topics and doing **keyword research**
 - Sourcing new writers
-- Guiding and menthoring a team of writers
-- Editing drafts and suggesting changes
-- Proofreading and fixing grammar 
-- Making sure the articles are formatted in line with the styling guide
+- Guiding and **mentoring a team of writers**
+- Editing drafts - **proofreading and fixing grammar** 
+- Making sure the article formatting is in line with the styling guide
 - Publishing the edited content
+
+## **Software Developer**
+
+- Working on improving and testing the internal CMS of a publishing company (**React**, **Node**, **Express**)
+-  _Covered the entire **REST API** with unit tests_ using **Mocha/Chai** ensuring stable CI/CD procedures
+- Updating existing and creating new API endpoints
+- Updating the  UI elements to facilitate the API changes
 
 # Let's Connect!
 
