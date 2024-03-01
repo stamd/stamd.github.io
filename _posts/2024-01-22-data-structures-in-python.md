@@ -14,7 +14,7 @@ externalLink: false
 
 ---
 
-Here's a peek on a list of published articles I wrote about data structures in Python.
+<span class="evidence">The following is a list of published articles I wrote about data structures in Python.</span>
 
 # Guide to Heaps in Python
 
