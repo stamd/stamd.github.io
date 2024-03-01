@@ -13,8 +13,6 @@ author: stamd
 externalLink: false
 ---
 
-# Graphs in Python - Theory and Implementation
-
 Graphs, being one of the fundamental data structures in the computer science, **oftentimes get overlooked**!
 
 ![](https://s3.stackabuse.com/media/courses/graphs-in-python-theory-and-implementation-banner.jpg)
