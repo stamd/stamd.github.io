@@ -29,7 +29,7 @@ After reading this guide, you'll be able to <strong>understand heaps from the gr
 
 So, if you've ever wondered how to efficiently manage a dynamic set of data where the highest (or lowest) priority element is frequently needed, you're in for a treat.
 
-#### [Read more <a href="https://stackabuse.com/guide-to-heaps-in-python/" target="_blank">here</a>]
+#### <a href="https://stackabuse.com/guide-to-heaps-in-python/" target="_blank">[Read more here]</a>
 
 ## Guide to Hash Tables in Python
 
@@ -44,7 +44,7 @@ We also explored **Python's implementation** of hash tables via dictionaries, pr
 
 Along the way, we demonstrated the utility and efficiency of hash tables with **real-world examples** and handy Python snippets.
 
-#### [Read more <a href="https://stackabuse.com/hash-tables-in-python/" target="_blank">here</a>]
+#### <a href="https://stackabuse.com/hash-tables-in-python/" target="_blank">[Read more here]</a>
 
 ## Guide to Queues in Python
 
@@ -57,7 +57,7 @@ For developers, especially in Python, queues _aren't just theoretical constructs
 
 In this guide, we dove deep into the concept of queues, exploring their characteristics, real-world applications, and most importantly, **how to effectively implement and use them in Python.**
 
-#### [Read more <a href="https://stackabuse.com/guide-to-queues-in-python/" target="_blank">here</a>]
+#### <a href="https://stackabuse.com/guide-to-queues-in-python/" target="_blank">[Read more here]</a>
 
 ## Guide to Stacks in Python
 
@@ -70,5 +70,5 @@ Over the years, **stacks have found their applications in a plethora of areas**,
 
 In this guide, we explained the concepts behind stacks, their implementation, use cases, and much more. We defined what stacks are, how they work, and then, we'll take a look at **two of the most common ways to implement stacks in Python.**
 
-#### [Read more <a href="https://stackabuse.com/guide-to-stacks-in-python/" target="_blank">here</a>]
+#### <a href="https://stackabuse.com/guide-to-stacks-in-python/" target="_blank">[Read more here]</a>
 
