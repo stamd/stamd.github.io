@@ -16,16 +16,6 @@ externalLink: false
 
 <span class="evidence">The following is a list of published articles I wrote about Bash scripting.</span>
 
-https://stackabuse.com/how-to-check-if-string-contains-substring-in-bash/
-
-https://stackabuse.com/bash-check-if-directory-or-file-exists/
-
-https://stackabuse.com/bash-difference-between-and-operators/
-
-https://stackabuse.com/extract-filename-and-extension-in-bash/
-
-https://stackabuse.com/print-newline-in-bash/
-
 # Bash: How to Delete Empty Lines Using Sed
 
 In this article, we explored how to use `sed` to **eliminate those pesky empty lines**, making your scripts and text files _cleaner and more manageable_.
