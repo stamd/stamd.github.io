@@ -11,7 +11,6 @@ description: "A list of articles/guides/tutorials I wrote about Bash Scripting"
 category: project
 author: stamd
 externalLink: false
-
 ---
 
 <span class="evidence">The following is a list of published articles I wrote about Bash scripting.</span>
@@ -78,6 +77,3 @@ With a deeper understanding of `2>&1`, developers and system administrators can 
 - <a href="https://stackabuse.com/bash-difference-between-and-operators/">Bash: Difference Between [ and [[ Operators</a>
 - [Extract Filename and Extension in Bash](https://stackabuse.com/extract-filename-and-extension-in-bash/)
 - [Print Newline in Bash](https://stackabuse.com/print-newline-in-bash/)
-
-
-
