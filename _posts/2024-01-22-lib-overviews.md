@@ -1,9 +1,9 @@
 ---
 title: "Overviews of Some of the Python Libraries/Modules"
 layout: post
-date: 2024-01-21 14:15
+date: 2024-01-22 17:58
 tag: bash
-image: ../assets/images/stamd-bash.png
+image: ../assets/images/stamd-python.png
 headerImage: true
 projects: true
 hidden: false
