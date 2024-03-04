@@ -10,7 +10,7 @@ Hi there👋🏼 I'm Dimitrije _(pronounced: dee-mee-tree-ye)_, a technical edit
 
 I'm passionate about **translating complex technical concepts into accessible, engaging content**. 
 
-> _Kind of a cliche, but it's true_ - there's nothing better than when you realize you've just digested a complex topic in a way that even a beginner can understand it. 
+> _Kind of a cliche, but it's true_ - there's nothing better than when you realize you've just digested a complex topic in a way that even a beginner can understand. 
 
 <span class="evidence">With _a solid background in software development_, my perspective can help you bring a **unique blend of technical expertise and writing proficiency** to your projects.</span>
 
