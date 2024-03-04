@@ -3,7 +3,7 @@ title: "Data Structures in Python"
 layout: post
 date: 2024-01-22 14:15
 tag: python
-image: ../assets/post-images/data-structures-in-python-01.png
+image: ../assets/images/stamd-python.png
 headerImage: true
 projects: true
 hidden: false
