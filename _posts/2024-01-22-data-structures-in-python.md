@@ -3,7 +3,7 @@ title: "Data Structures in Python"
 layout: post
 date: 2024-01-22 14:15
 tag: python
-image: https://s3.stackabuse.com/media/courses/graphs-in-python-theory-and-implementation-thumbnail.jpg
+image: ../assets/post-images/data-structures-in-python-01.png
 headerImage: true
 projects: true
 hidden: false
