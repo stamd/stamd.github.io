@@ -23,7 +23,7 @@ I took you on a journey to understand FastAPI from the basics, through more adva
 
 #### <a href="https://stackabuse.com/introduction-to-fastapi/" target="_blank">[Read more here]</a>
 
-# Hashing Passwords in Python with BCrypt
+# Hashing Passwords in Python with BCryptblock
 
 This guide explains **how to hash your passwords** in Python using BCrypt.
 
