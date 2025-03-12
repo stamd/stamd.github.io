@@ -13,7 +13,9 @@ author: stamd
 externalLink: false
 ---
 
-# Dimitrije Stamenic Technical Editing and Writing Portfolio
+# Technical Editing and Writing Portfolio
+
+<span class="evidence">The following is a list of published articles I wrote and/or edited for various clients:</span>
 
 ## Apify
 
