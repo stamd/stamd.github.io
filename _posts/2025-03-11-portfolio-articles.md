@@ -2,7 +2,7 @@
 title: "Portfolio Articles"
 layout: post
 date: 2025-03-11 10:15
-tag: portfolio
+tag: python
 image: ../assets/images/stamd-portfolio-articles.png
 headerImage: true
 projects: true
