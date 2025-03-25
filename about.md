@@ -32,7 +32,7 @@ Throughout my career, I've established a reputation as someone recognizable for 
 
 ## Technical Writer
 
-- _3+ years_ of experience
+- _4+ years_ of experience
 - 150+ published articles **read by hundreds of thousands of readers**
 - Writing **SEO-friendly,** comprehensive articles (generally long-form,  1500+ words per article)
 - Common  topics: data structures, algorithms, library/tool overviews, databases, Python, JavaScript, Unix/Bash scripting, SQL, and much more
@@ -40,7 +40,7 @@ Throughout my career, I've established a reputation as someone recognizable for 
 
 ## Technical Editor
 
-- _2+ years_ of experience
+- _3+ years_ of experience
 - Finding interesting topics and doing **keyword research**
 - Sourcing new writers
 - Guiding and **mentoring a team of writers**
