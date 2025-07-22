@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Articles"
 layout: post
-date: 2025-03-11 10:15
+date: 2025-07-22 10:15
 tag: portgolio
 image: ../assets/images/stamd-portfolio-articles.png
 headerImage: true
@@ -26,9 +26,23 @@ externalLink: false
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
-## DuploCloud
+## Descope
+- [Add Authentication and MFA to Godot with Descope](https://www.descope.com/blog/post/godot-auth-mfa)
 
+## DuploCloud
 - [Building a Secure Cloud Infrastructure with DevOps](https://duplocloud.com/blog/secure-cloud-infrastructure-with-devops/) [Author/Ghostwriter]
+
+## FloppyData
+- [12 Best Proxy Services for Telegram](https://floppydata.com/blog/12-best-proxy-services-for-telegram/) [Author]
+- [What is Anti-Detect Browser: Definition, How to Use It](https://floppydata.com/blog/what-is-anti-detect-browser/) [Author]
+- [TOP 7 Proxy Sites: List of Proxy Providers in 2025](https://floppydata.com/blog/top-7-proxy-sites-list-of-proxy-providers/) [Author]
+- [Best Proxies for Web Scrapers](https://floppydata.com/blog/best-proxies-for-web-scrapers/) [Author]
+- [Datacenter Proxies vs. Residential Proxies: What is the Difference?](https://floppydata.com/blog/datacenter-proxies-vs-residential-proxies/) [Author]
+- [Proxy Switchyomega for Chrome / Mozilla Firefox: How To Setup and Use It](https://floppydata.com/blog/proxy-switchyomega-setup/) [Reviewer]
+
+## GoLogin
+- [Web Scraping Linkedin: 2025 Pro Scraper’s Guide + Code](https://gologin.com/blog/scraping-data-from-linkedin/) [Reviewer]
+- [How to Bypass Cloudflare Bot Protection? Web Scraping Service in 2025](https://gologin.com/blog/web-scraping-service-cloudflare-bypass/) [Reviewer]
 
 ## StackAbuse
 
