@@ -44,6 +44,9 @@ externalLink: false
 - [Web Scraping Linkedin: 2025 Pro Scraper’s Guide + Code](https://gologin.com/blog/scraping-data-from-linkedin/) [Reviewer]
 - [How to Bypass Cloudflare Bot Protection? Web Scraping Service in 2025](https://gologin.com/blog/web-scraping-service-cloudflare-bypass/) [Reviewer]
 
+## Prove
+- [Integrating Prove into Complex Systems: What You Need to Know](https://www.prove.com/blog/integration-essentials)[Author]
+
 ## StackAbuse
 
 - [Using Proxies in Web Scraping – All You Need to Know](https://stackabuse.com/using-proxies-in-web-scraping-all-you-need-to-know/) [Author/Ghostwriter]
