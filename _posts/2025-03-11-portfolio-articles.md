@@ -1,8 +1,8 @@
 ---
 title: "Portfolio Articles"
 layout: post
-date: 2025-07-22 10:15
-tag: portgolio
+date: 2025-10-22 10:15
+tag: portfolio
 image: ../assets/images/stamd-portfolio-articles.png
 headerImage: true
 projects: true
