@@ -26,8 +26,8 @@ externalLink: false
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
-## DECODO
-- [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java)[Author/Ghostwriter]
+## Decodo
+- [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java) [Author/Ghostwriter]
 
 ## Descope
 - [Add Authentication and MFA to Godot with Descope](https://www.descope.com/blog/post/godot-auth-mfa)
