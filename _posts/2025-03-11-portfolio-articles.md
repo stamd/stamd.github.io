@@ -26,6 +26,9 @@ externalLink: false
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
+## DECODO
+- [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java)[Author/Ghostwriter]
+
 ## Descope
 - [Add Authentication and MFA to Godot with Descope](https://www.descope.com/blog/post/godot-auth-mfa)
 
@@ -40,7 +43,7 @@ externalLink: false
 - [Datacenter Proxies vs. Residential Proxies: What is the Difference?](https://floppydata.com/blog/datacenter-proxies-vs-residential-proxies/) [Author]
 - [Proxy Switchyomega for Chrome / Mozilla Firefox: How To Setup and Use It](https://floppydata.com/blog/proxy-switchyomega-setup/) [Reviewer]
 
-## GoLogin
+## Gologin
 - [Web Scraping Linkedin: 2025 Pro Scraper’s Guide + Code](https://gologin.com/blog/scraping-data-from-linkedin/) [Reviewer]
 - [How to Bypass Cloudflare Bot Protection? Web Scraping Service in 2025](https://gologin.com/blog/web-scraping-service-cloudflare-bypass/) [Reviewer]
 
