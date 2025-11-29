@@ -1,6 +1,6 @@
 # main text of home
 title: Dimitrije Stamenic
-bio: Technical Editor & Writer | Software Developer
+bio:  Software Engineer | Technical Editor & Writer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/stamd-profile-min.png
+picture: assets/images/stamd-social-profile-min.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -44,7 +44,7 @@ email: stamenicdimitrije@gmail.com
 authors:
   stamd:
     name: Dimitrije Stamenic
-    bio:  Software Developer | Technical Editor & Writer
+    bio:  Software Engineer | Technical Editor & Writer
     external-image: false
     picture: assets/images/stamd-social-profile-min.jpg
     twitter: stamenic_d
