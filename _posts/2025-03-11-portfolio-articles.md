@@ -45,6 +45,8 @@ externalLink: false
 - [Proxy Switchyomega for Chrome / Mozilla Firefox: How To Setup and Use It](https://floppydata.com/blog/proxy-switchyomega-setup/) [Reviewer]
 
 ## Gologin
+- [10 Best Cloud Browsers – Expert Review & Comparison](https://gologin.com/blog/best-cloud-browsers/) [Author/Ghostwriter]
+- [10 Best AI Browsers For Agents, MCP & More – Technical Overview](https://gologin.com/blog/best-ai-browsers-for-agents-mcp-more/) [Author/Ghostwriter]
 - [Web Scraping Linkedin: 2025 Pro Scraper’s Guide + Code](https://gologin.com/blog/scraping-data-from-linkedin/) [Reviewer]
 - [How to Bypass Cloudflare Bot Protection? Web Scraping Service in 2025](https://gologin.com/blog/web-scraping-service-cloudflare-bypass/) [Reviewer]
 - [Is your social account restricted? Here’s how to avoid bans anywhere](https://gologin.com/blog/account-restricted/) [Reviewer]
