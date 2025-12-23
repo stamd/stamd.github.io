@@ -29,6 +29,7 @@ externalLink: false
 ## Decodo
 - [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java) [Author/Ghostwriter]
 - [What Is AI Scraping? A Complete Guide](https://decodo.com/blog/what-is-ai-scraping) [Author/Ghostwriter]
+- [AI Web Scraping With Python: A Comprehensive Guide](https://decodo.com/blog/ai-web-scraping-python) [Author/Ghostwriter]
 
 ## Descope
 - [Add Authentication and MFA to Godot with Descope](https://www.descope.com/blog/post/godot-auth-mfa) [Author]
