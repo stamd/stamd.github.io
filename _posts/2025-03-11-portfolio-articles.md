@@ -22,7 +22,7 @@ externalLink: false
 - [How to use a proxy with Axios and Node.js](https://blog.apify.com/axios-proxy/) [Author]
 
 ## BrightData
-
+- [Integrating Bright Data Web MCP With LangGraph](https://brightdata.com/blog/ai/langgraph-with-web-mcp) [Author]
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
@@ -46,6 +46,8 @@ externalLink: false
 - [Proxy Switchyomega for Chrome / Mozilla Firefox: How To Setup and Use It](https://floppydata.com/blog/proxy-switchyomega-setup/) [Reviewer]
 
 ## Gologin
+- [Is Browserbase Any Good? Tech Expert Review](https://gologin.com/blog/is-browserbase-any-good/) [Author/Ghostwriter]
+- [Is Hyperbrowser Any Good? Tech Expert Review](https://gologin.com/blog/is-hyperbrowser-any-good/) [Author/Ghostwriter]
 - [10 Best Cloud Browsers – Expert Review & Comparison](https://gologin.com/blog/best-cloud-browsers/) [Author/Ghostwriter]
 - [10 Best AI Browsers For Agents, MCP & More – Technical Overview](https://gologin.com/blog/best-ai-browsers-for-agents-mcp-more/) [Author/Ghostwriter]
 - [Web Scraping Linkedin: 2025 Pro Scraper’s Guide + Code](https://gologin.com/blog/scraping-data-from-linkedin/) [Reviewer]
