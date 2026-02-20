@@ -22,11 +22,13 @@ externalLink: false
 - [How to use a proxy with Axios and Node.js](https://blog.apify.com/axios-proxy/) [Author]
 
 ## BrightData
+- [Cloud Scraping vs Local Scraping: Which Is Right for You?](https://brightdata.com/blog/web-data/cloud-scraping-vs-local-scraping) [Author]
 - [Integrating Bright Data Web MCP With LangGraph](https://brightdata.com/blog/ai/langgraph-with-web-mcp) [Author]
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
 ## Decodo
+- [The Ultimate Guide to Scraping eCommerce Websites: Tools, Techniques, and Best Practices](https://decodo.com/blog/scraping-ecommerce-websites) [Author/Ghostwriter]
 - [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java) [Author/Ghostwriter]
 - [What Is AI Scraping? A Complete Guide](https://decodo.com/blog/what-is-ai-scraping) [Author/Ghostwriter]
 - [AI Web Scraping With Python: A Comprehensive Guide](https://decodo.com/blog/ai-web-scraping-python) [Author/Ghostwriter]
