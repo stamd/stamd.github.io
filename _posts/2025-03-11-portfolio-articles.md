@@ -28,6 +28,7 @@ externalLink: false
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
 ## Decodo
+- [Scraping Multimedia Data for AI Training: Images, Video, Audio](https://decodo.com/blog/multimedia-data-scraping) [Author/Ghostwriter]
 - [The Ultimate Guide to Scraping eCommerce Websites: Tools, Techniques, and Best Practices](https://decodo.com/blog/scraping-ecommerce-websites) [Author/Ghostwriter]
 - [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java) [Author/Ghostwriter]
 - [What Is AI Scraping? A Complete Guide](https://decodo.com/blog/what-is-ai-scraping) [Author/Ghostwriter]
