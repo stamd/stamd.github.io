@@ -21,6 +21,9 @@ externalLink: false
 
 - [How to use a proxy with Axios and Node.js](https://blog.apify.com/axios-proxy/) [Author]
 
+## AppSignal
+- [Monitoring Express Route Performance with AppSignal](https://blog.appsignal.com/2026/04/07/monitoring-express-route-performance-with-appsignal.html) [Author]
+
 ## BrightData
 - [Cloud Scraping vs Local Scraping: Which Is Right for You?](https://brightdata.com/blog/web-data/cloud-scraping-vs-local-scraping) [Author]
 - [Integrating Bright Data Web MCP With LangGraph](https://brightdata.com/blog/ai/langgraph-with-web-mcp) [Author]
