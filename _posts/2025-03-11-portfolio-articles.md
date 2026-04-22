@@ -30,6 +30,9 @@ externalLink: false
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
+## Byteful
+- [Understanding HTTP Proxy: Headers, Auth, Cache, and Setup](https://byteful.com/blog/understanding-http-proxy) [Author]
+
 ## Decodo
 - [Scraping Multimedia Data for AI Training: Images, Video, Audio](https://decodo.com/blog/multimedia-data-scraping) [Author/Ghostwriter]
 - [The Ultimate Guide to Scraping eCommerce Websites: Tools, Techniques, and Best Practices](https://decodo.com/blog/scraping-ecommerce-websites) [Author/Ghostwriter]
