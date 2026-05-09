@@ -22,18 +22,24 @@ externalLink: false
 - [How to use a proxy with Axios and Node.js](https://blog.apify.com/axios-proxy/) [Author]
 
 ## AppSignal
+
 - [Monitoring Express Route Performance with AppSignal](https://blog.appsignal.com/2026/04/07/monitoring-express-route-performance-with-appsignal.html) [Author]
 
 ## BrightData
+
 - [Cloud Scraping vs Local Scraping: Which Is Right for You?](https://brightdata.com/blog/web-data/cloud-scraping-vs-local-scraping) [Author]
 - [Integrating Bright Data Web MCP With LangGraph](https://brightdata.com/blog/ai/langgraph-with-web-mcp) [Author]
 - [Python Syntax Errors Explained](https://brightdata.com/blog/web-data/python-syntax-errors) [Author]
 - [Text Scraping: A Step-By-Step Tutorial](https://brightdata.com/blog/web-data/text-scraping) [Author]
 
 ## Byteful
-- [Understanding HTTP Proxy: Headers, Auth, Cache, and Setup](https://byteful.com/blog/understanding-http-proxy) [Author]
+
+- [Shared vs. Dedicated Proxies: What Matters Beyond Price](https://byteful.com/blog/shared-vs-dedicated-proxies) [Author/Ghostwriter]
+- [Understanding HTTP Proxy: Headers, Auth, Cache, and Setup](https://byteful.com/blog/understanding-http-proxy) [Author/Ghostwriter]
 
 ## Decodo
+
+- [How to Scrape Websites with PowerShell: A Complete Guide](decodo.com/blog/powershell-web-scraping) [[Author/Ghostwriter]]
 - [Scraping Multimedia Data for AI Training: Images, Video, Audio](https://decodo.com/blog/multimedia-data-scraping) [Author/Ghostwriter]
 - [The Ultimate Guide to Scraping eCommerce Websites: Tools, Techniques, and Best Practices](https://decodo.com/blog/scraping-ecommerce-websites) [Author/Ghostwriter]
 - [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java) [Author/Ghostwriter]
@@ -41,12 +47,15 @@ externalLink: false
 - [AI Web Scraping With Python: A Comprehensive Guide](https://decodo.com/blog/ai-web-scraping-python) [Author/Ghostwriter]
 
 ## Descope
+
 - [Add Authentication and MFA to Godot with Descope](https://www.descope.com/blog/post/godot-auth-mfa) [Author]
 
 ## DuploCloud
+
 - [Building a Secure Cloud Infrastructure with DevOps](https://duplocloud.com/blog/secure-cloud-infrastructure-with-devops/) [Author/Ghostwriter]
 
 ## FloppyData
+
 - [12 Best Proxy Services for Telegram](https://floppydata.com/blog/12-best-proxy-services-for-telegram/) [Author]
 - [What is Anti-Detect Browser: Definition, How to Use It](https://floppydata.com/blog/what-is-anti-detect-browser/) [Author]
 - [TOP 7 Proxy Sites: List of Proxy Providers in 2025](https://floppydata.com/blog/top-7-proxy-sites-list-of-proxy-providers/) [Author]
@@ -55,6 +64,7 @@ externalLink: false
 - [Proxy Switchyomega for Chrome / Mozilla Firefox: How To Setup and Use It](https://floppydata.com/blog/proxy-switchyomega-setup/) [Reviewer]
 
 ## Gologin
+
 - [Is Browserbase Any Good? Tech Expert Review](https://gologin.com/blog/is-browserbase-any-good/) [Author/Ghostwriter]
 - [Is Hyperbrowser Any Good? Tech Expert Review](https://gologin.com/blog/is-hyperbrowser-any-good/) [Author/Ghostwriter]
 - [10 Best Cloud Browsers – Expert Review & Comparison](https://gologin.com/blog/best-cloud-browsers/) [Author/Ghostwriter]
@@ -68,6 +78,7 @@ externalLink: false
 - [How to Unblock Facebook Login by Proxy From Any Country](https://gologin.com/blog/how-to-unblock-facebook/) [Reviewer]
 
 ## Prove
+
 - [Integrating Prove into Complex Systems: What You Need to Know](https://www.prove.com/blog/integration-essentials) [Author]
 
 ## StackAbuse
@@ -86,26 +97,26 @@ externalLink: false
 - [Insertion Sort in Python](https://stackabuse.com/insertion-sort-in-python/) [Editor]
 - [List Comprehensions in Python](https://stackabuse.com/list-comprehensions-in-python/) [Editor/Co-author]
 - [Merge Sort in Python](https://stackabuse.com/merge-sort-in-python/) [Editor]
-- [Design Patterns in Python ](https://stackabuse.com/design-patterns-in-python/)[Editor]
+- [Design Patterns in Python][https://stackabuse.com/design-patterns-in-python/](Editor)
 - [Creational Design Patterns in Python](https://stackabuse.com/creational-design-patterns-in-python/) [Editor]
-- [Heap Sort in Python ](https://stackabuse.com/heap-sort-in-python/)[Editor]
+- [Heap Sort in Python][https://stackabuse.com/heap-sort-in-python/](Editor)
 - [Bubble Sort in Python](https://stackabuse.com/bubble-sort-in-python/) [Editor]
 - [Selection Sort in Python](https://stackabuse.com/selection-sort-in-python/) [Editor]
 - [Binary Search in Python](https://stackabuse.com/binary-search-in-python/) [Editor]
-- [Structural Design Patterns in Python](https://stackabuse.com/structural-design-patterns-in-python/) [Editor] 
-- [How to Remove Elements from an Array/List in Python ](https://stackabuse.com/remove-element-from-an-array-in-python/)[Editor]
-- [How to Merge Two Dictionaries in Python ](https://stackabuse.com/how-to-merge-two-dictionaries-in-python/)[Editor]
+- [Structural Design Patterns in Python](https://stackabuse.com/structural-design-patterns-in-python/) [Editor]
+- [How to Remove Elements from an Array/List in Python][https://stackabuse.com/remove-element-from-an-array-in-python/](Editor)
+- [How to Merge Two Dictionaries in Python][https://stackabuse.com/how-to-merge-two-dictionaries-in-python/](Editor)
 - [Radix Sort in Python](https://stackabuse.com/radix-sort-in-python/) [Author]
-- [Python: Get Last Element in List ](https://stackabuse.com/python-get-last-element-in-list/)[Author]
+- [Python: Get Last Element in List][https://stackabuse.com/python-get-last-element-in-list/](Author)
 - [Dictionaries vs Arrays in Python - Deep Dive](https://stackabuse.com/dictionaries-vs-arrays-in-python-deep-dive/) [Editor]
-- [An Introductory Guide to Brython ](https://stackabuse.com/an-introductory-guide-to-brython/)[Author]
+- [An Introductory Guide to Brython][https://stackabuse.com/an-introductory-guide-to-brython/](Author)
 - [JavaScript: Get Current URL and Components (Protocol, Domain, Port, Path, Query, Hash)](https://stackabuse.com/javascript-get-current-url-and-components/) [Author]
 - [Searching and Replacing Words in Python with FlashText](https://stackabuse.com/searching-and-replacing-words-in-python-with-flashtext/) [Author]
 - [Counting Sort in Python](https://stackabuse.com/counting-sort-in-python/) [Author]
 - [Pimp my Terminal - An Introduction to "Oh My Zsh"](https://stackabuse.com/pimp-my-terminal-an-introduction-to-oh-my-zsh/) [Author]
 - [Python: Get Max Element of List, Dictionary, or Tuple](https://stackabuse.com/python-get-max-element-of-list-dictionary-or-tuple/) [Author]
 - [How to Get the Max Element of a Pandas DataFrame - Rows, Columns, Entire DataFrame](https://stackabuse.com/how-to-get-the-max-element-of-a-pandas-dataframe-rows-columns-entire-dataframe/) [Author]
-- [Guide to the Python or Operator ](https://stackabuse.com/guide-to-the-python-or-operator/)[Author]
+- [Guide to the Python or Operator][https://stackabuse.com/guide-to-the-python-or-operator/](Author)
 - [Validate Email Addresses in Python with email-validator](https://stackabuse.com/validate-email-addresses-in-python-with-email-validator/) [Author]
 - [How to Sort an Array by Date in JavaScript](https://stackabuse.com/how-to-sort-an-array-by-date-in-javascript/) [Author]
 - [Guide to NumPy Matrix Subtraction](https://stackabuse.com/guide-to-numpy-matrix-subtraction/) [Author]
@@ -114,7 +125,7 @@ externalLink: false
 - [Minimum Spanning Trees - Kruskal's Algorithm](https://stackabuse.com/graphs-in-python-minimum-spanning-trees-kruskals-algorithm/) [Author]
 - [Minimum Spanning Trees - Prim's Algorithm](https://stackabuse.com/graphs-in-python-minimum-spanning-trees-prims-algorithm/) [Author]
 - [Conditional Rendering/Display in Vue with v-if, v-show, v-else and v-else-if](https://stackabuse.com/conditional-rendering-in-vue-with-v-if-v-show-v-else-and-v-else-if/) [Editor]
-- [Guide to Vue Event Handling With v-on: Mouse, Keyboard, Form and Custom Events ](https://stackabuse.com/guide-to-vue-event-handling-with-v-on-mouse-keyboard-form-and-custom-events/) [Editor]
+- [Guide to Vue Event Handling With v-on: Mouse, Keyboard, Form and Custom Events](https://stackabuse.com/guide-to-vue-event-handling-with-v-on-mouse-keyboard-form-and-custom-events/) [Editor]
 - [Representing Graphs in Code](https://stackabuse.com/graphs-in-python-representing-graphs-in-code/) [Author]
 - [Depth-First Search (DFS) Algorithm](https://stackabuse.com/depth-first-search-dfs-in-python-theory-and-implementation/) [Editor/Co-author]
 - [Breadth-First Search (BFS) Algorithm](https://stackabuse.com/graphs-in-python-breadth-first-search-bfs-algorithm/) [Editor/Co-author]
@@ -124,32 +135,32 @@ externalLink: false
 - [Guide to Python's append() Function](https://stackabuse.com/guide-to-pythons-append-function/) [Author]
 - [Guide to Dictionaries in Python](https://stackabuse.com/python-dictionary-tutorial/) [Editor/Co-author]
 - [Guide to Sets in Python](https://stackabuse.com/sets-in-python/) [Editor/Co-author]
-- [Lists vs Tuples in Python ](https://stackabuse.com/lists-vs-tuples-in-python/) [Editor/Co-author]
+- [Lists vs Tuples in Python](https://stackabuse.com/lists-vs-tuples-in-python/) [Editor/Co-author]
 - [Guide to Deploying a React App to Netlify](https://stackabuse.com/guide-to-deploying-a-react-app-to-netlify/) [Editor]
 - [Guide to React Event Management](https://stackabuse.com/guide-to-react-event-management/) [Editor]
 - [Guide to React Component](https://stackabuse.com/guide-to-react-component/) [Editor]
 - [How to Get the Number of Days Between Dates in Java](https://stackabuse.com/how-to-get-the-number-of-days-between-dates-in-java/) [Editor]
 - [How to Remove Duplicates From an Array in JavaScript](https://stackabuse.com/how-to-remove-duplicates-from-an-array-in-javascript/) [Editor]
-- [JavaScript: How to Get the Number of Elements in an Array ](https://stackabuse.com/javascript-how-to-get-the-number-of-elements-in-an-array/)[Editor]
-- [JavaScript: Check if Variable Is a String ](https://stackabuse.com/javascript-check-if-variable-is-a-string/)[Editor]
+- [JavaScript: How to Get the Number of Elements in an Array][https://stackabuse.com/javascript-how-to-get-the-number-of-elements-in-an-array/](Editor)
+- [JavaScript: Check if Variable Is a String][https://stackabuse.com/javascript-check-if-variable-is-a-string/](Editor)
 - [JavaScript: Get Min and Max Element of Array](https://stackabuse.com/javascript-get-min-and-max-element-of-array/) [Editor]
-- [Convert String to Boolean in JavaScript ](https://stackabuse.com/convert-string-to-boolean-in-javascript/)[Editor]
+- [Convert String to Boolean in JavaScript][https://stackabuse.com/convert-string-to-boolean-in-javascript/](Editor)
 - [Square Root in JavaScript](https://stackabuse.com/square-root-in-javascript/) [Editor]
 - [Count Number of Element Occurrences in JavaScript Array](https://stackabuse.com/count-number-of-element-occurrences-in-javascript-array/) [Editor]
-- [How to Reverse String in Python ](https://stackabuse.com/how-to-reverse-string-in-python/)[Author]
-- [How to Deploy a React App to Heroku ](https://stackabuse.com/how-to-deploy-a-react-app-to-heroku/)[Editor]
+- [How to Reverse String in Python][https://stackabuse.com/how-to-reverse-string-in-python/](Author)
+- [How to Deploy a React App to Heroku][https://stackabuse.com/how-to-deploy-a-react-app-to-heroku/](Editor)
 - [Guide to the Ternary Operator in JavaScript](https://stackabuse.com/guide-to-the-ternary-operator-in-javascript/) [Editor]
-- [Convert Form Data to JavaScript Object ](https://stackabuse.com/convert-form-data-to-javascript-object/)[Editor]
+- [Convert Form Data to JavaScript Object][https://stackabuse.com/convert-form-data-to-javascript-object/](Editor)
 - [Math.sqrt - Square Root in Java](https://stackabuse.com/mathsqrt-square-root-in-java/) [Editor]
 - [JavaScript: How to Count the Number of Substring Occurrences in a String](https://stackabuse.com/javascript-how-to-count-the-number-of-substring-occurrences-in-a-string/) [Editor]
 - [Guide to Interfaces in Java](https://stackabuse.com/guide-to-interfaces-in-java/) [Editor]
 - [Guide to Vue Props](https://stackabuse.com/guide-to-vue-props/) [Editor]
 - [How to Create a Loading Animation in React from Scratch](https://stackabuse.com/how-to-create-a-loading-animation-in-react-from-scratch/) [Editor]
-- [How to Create a Loading Animation in React with react-spinners ](https://stackabuse.com/how-to-create-a-loading-animation-in-react-with-react-spinners/)[Editor]
+- [How to Create a Loading Animation in React with react-spinners][https://stackabuse.com/how-to-create-a-loading-animation-in-react-with-react-spinners/](Editor)
 - [Sending POST JSON Requests With Axios](https://stackabuse.com/sending-post-json-requests-with-axios/) [Editor]
 - [How to Send Headers With an Axios POST Request](https://stackabuse.com/how-to-send-headers-with-an-axios-post-request/) [Editor]
 - [Loading... Animation in Vanilla JavaScript](https://stackabuse.com/loading-animation-in-vanilla-javascript/) [Editor]
-- [Guide to Lazy Loading With React ](https://stackabuse.com/guide-to-lazy-loading-with-react/)[Editor]
+- [Guide to Lazy Loading With React][https://stackabuse.com/guide-to-lazy-loading-with-react/](Editor)
 - [Storing to localStorage in React](https://stackabuse.com/storing-to-localstorage-in-react/) [Editor]
 - [How to Remove Quotes from Strings in Python](https://stackabuse.com/how-to-remove-quotes-from-string-in-python/) [Author]
 - [Definitive Guide to Hierarchical Clustering with Python and Scikit-Learn](https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/) [Editor]
@@ -157,7 +168,7 @@ externalLink: false
 - [Writing Files using Python](https://stackabuse.com/writing-files-using-python/) [Editor]
 - [POST HTTP Request in React](https://stackabuse.com/post-http-request-in-react/) [Editor]
 - [Guide to the K-Nearest Neighbors Algorithm in Python and Scikit-Learn](https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/) [Editor]
-- [Big O Notation and Algorithm Analysis with Python Examples ](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)[Editor/Co-author]
+- [Big O Notation and Algorithm Analysis with Python Examples][https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/](Editor/Co-author)
 - [Reading and Writing Lists to a File in Python](https://stackabuse.com/reading-and-writing-lists-to-a-file-in-python/) [Editor/Co-author]
 - [Reading Files with Python](https://stackabuse.com/reading-files-with-python/) [Editor/Co-author]
 - [How to Sort a Dictionary by Value in Python](https://stackabuse.com/how-to-sort-dictionary-by-value-in-python/) [Editor]
@@ -173,48 +184,47 @@ externalLink: false
 - [Pagination in Vanilla JavaScript](https://stackabuse.com/pagination-in-vanilla-javascript/) [Editor]
 - [How to Check if String Contains Substring in Bash](https://stackabuse.com/how-to-check-if-string-contains-substring-in-bash/) [Author]
 - [How to Get the Source Directory of a Bash Script](https://stackabuse.com/how-to-get-the-source-directory-of-a-bash-script/) [Author]
-- [How to Grep Recursively in Bash ](https://stackabuse.com/how-to-grep-recursively-in-bash/)[Author]
-- [What Does "2>&1" do on the Command Line? ](https://stackabuse.com/what-does-2-1-do-on-the-command-line/)[Author]
+- [How to Grep Recursively in Bash][https://stackabuse.com/how-to-grep-recursively-in-bash/](Author)
+- [What Does "2>&1" do on the Command Line?][https://stackabuse.com/what-does-2-1-do-on-the-command-line/](Author)
 - [How to Align Images in React Native](https://stackabuse.com/how-to-align-images-in-react-native/) [Editor]
-- [Comparing Numbers in Bash ](https://stackabuse.com/comparing-numbers-in-bash/)[Author]
+- [Comparing Numbers in Bash][https://stackabuse.com/comparing-numbers-in-bash/](Author)
 - [Loops in Python](https://stackabuse.com/loops-in-python/) [Editor/Co-author]
-- [Three Ways to Create Multiline Strings in Python ](https://stackabuse.com/three-ways-to-create-multiline-strings-in-python/) [Author]
+- [Three Ways to Create Multiline Strings in Python](https://stackabuse.com/three-ways-to-create-multiline-strings-in-python/) [Author]
 - [Guide to the LIKE Clause in MySQL](https://stackabuse.com/guide-to-the-like-clause-in-mysql/) [Author]
 - [Guide to the ORDER BY Clause in MySQL](https://stackabuse.com/guide-to-order-by-clause-in-mysql/) [Author]
-- [ How to Convert JSON to a Python Object](https://stackabuse.com/how-to-convert-json-to-a-python-object/) [Author]
+- [How to Convert JSON to a Python Object](https://stackabuse.com/how-to-convert-json-to-a-python-object/) [Author]
 - [Reading and Writing CSV in Bash](https://stackabuse.com/reading-and-writing-csv-in-bash/) [Author]
 - [Guide to Tuples in Python](https://stackabuse.com/guide-to-tuples-in-python/) [Author]
 - [How to Compare Tuples in Python](https://stackabuse.com/how-to-compare-tuples-in-python/) [Author]
-- [Guide to the HAVING Clause in MySQL ](https://stackabuse.com/guide-to-the-having-clause-in-mysql/)[Author]
+- [Guide to the HAVING Clause in MySQL][https://stackabuse.com/guide-to-the-having-clause-in-mysql/](Author)
 - [Guide to the WHERE Clause in MySQL](https://stackabuse.com/guide-to-the-where-clause-in-mysql/) [Author]
 - [How to Get JSON from a URL in Python](https://stackabuse.com/how-to-get-json-from-a-url-in-python/) [Author]
 - [Rounding Decimals in Python](https://stackabuse.com/rounding-decimals-in-python/) [Author]
 - [How to Set the Time Zone in Django](https://stackabuse.com/how-to-set-the-time-zone-in-django/) [Author]
-- [How to POST JSON Data Using requests Library in Python ](https://stackabuse.com/how-to-post-json-data-using-requests-library-in-python/)[Author]
+- [How to POST JSON Data Using requests Library in Python][https://stackabuse.com/how-to-post-json-data-using-requests-library-in-python/](Author)
 - [How to Generate Random Strings in Python](https://stackabuse.com/how-to-generate-random-strings-in-python/) [Author]
-- [Python Regular Expressions - Validate Phone Numbers ](https://stackabuse.com/python-regular-expressions-validate-phone-numbers/)[Author]
-- [Guide to Lists in Python ](https://stackabuse.com/guide-to-lists-in-python/)[Author]
-- [How to Convert Tuple Pairs to a Dictionary in Python ](https://stackabuse.com/how-to-convert-tuple-pairs-to-a-dictionary-in-python/) [Author]
+- [Python Regular Expressions - Validate Phone Numbers][https://stackabuse.com/python-regular-expressions-validate-phone-numbers/](Author)
+- [Guide to Lists in Python][https://stackabuse.com/guide-to-lists-in-python/](Author)
+- [How to Convert Tuple Pairs to a Dictionary in Python](https://stackabuse.com/how-to-convert-tuple-pairs-to-a-dictionary-in-python/) [Author]
 - [How to Change Connection Timeout in MySQL](https://stackabuse.com/how-to-change-connection-timeout-in-mysql/) [Author]
 - [How to Convert a List into a CSV String in Python](https://stackabuse.com/how-to-convert-a-list-into-a-csv-string-in-python/) [Author]
 - [The Difference Between %s and %d in Python String Formatting](https://stackabuse.com/the-difference-between-s-and-d-in-python-string-formatting/) [Author]
-- [How to Remove Whitespaces from a String in Python ](https://stackabuse.com/how-to-remove-whitespaces-from-a-string-in-python/)[Author]
-- [How to Split String on Multiple Delimiters in Python ](https://stackabuse.com/how-to-split-string-on-multiple-delimiters-in-python/)[Author]
+- [How to Remove Whitespaces from a String in Python][https://stackabuse.com/how-to-remove-whitespaces-from-a-string-in-python/](Author)
+- [How to Split String on Multiple Delimiters in Python][https://stackabuse.com/how-to-split-string-on-multiple-delimiters-in-python/](Author)
 - [How to Check if a String is Empty or None in Python](https://stackabuse.com/how-to-check-if-a-string-is-empty-or-none-in-python/) [Author]
 - [How to Remove Commas from a String in Python](https://stackabuse.com/how-to-remove-commas-from-a-string-in-python/) [Author]
 - [Introduction to FastAPI](https://stackabuse.com/introduction-to-fastapi/) [Author]
-- [Step-by-Step Guide to File Upload with Flask ](https://stackabuse.com/step-by-step-guide-to-file-upload-with-flask/)[Author]
+- [Step-by-Step Guide to File Upload with Flask][https://stackabuse.com/step-by-step-guide-to-file-upload-with-flask/](Author)
 - [Guide to Interfaces in Python](https://stackabuse.com/guide-to-interfaces-in-python/) [Author]
-- [How to Efficiently Convert Data Types in Pandas ](https://stackabuse.com/how-to-efficiently-convert-data-types-in-pandas/)[Author]
+- [How to Efficiently Convert Data Types in Pandas][https://stackabuse.com/how-to-efficiently-convert-data-types-in-pandas/](Author)
 - [Bash: How to Delete Empty Lines Using Sed](https://stackabuse.com/bash-how-to-delete-empty-lines-using-sed/) [Author]
 - [Behavioral Design Patterns in Python](https://stackabuse.com/behavioral-design-patterns-in-python/) [Author]
 - [Python-Specific Design Patterns](https://stackabuse.com/python-specific-design-patterns/) [Author]
 - [Guide to Sets in Python](https://stackabuse.com/guide-to-sets-in-python/) [Author]
-- [Guide to Arrays in Python ](https://stackabuse.com/guide-to-arrays-in-python/) [Author]
+- [Guide to Arrays in Python](https://stackabuse.com/guide-to-arrays-in-python/) [Author]
 - [Linear Search in Python](https://stackabuse.com/linear-search-in-python/) [Author]
 - [Guide to Stacks in Python](https://stackabuse.com/guide-to-stacks-in-python/) [Author]
 - [Guide to Queues in Python](https://stackabuse.com/guide-to-queues-in-python/) [Author]
 - [Guide to Hash Tables in Python](https://stackabuse.com/hash-tables-in-python/) [Author]
 - [Guide to Heaps in Python](https://stackabuse.com/guide-to-heaps-in-python/) [Author]
-- [Guide to Strings in Python ](https://stackabuse.com/guide-to-strings-in-python/)[Author]
-
+- [Guide to Strings in Python][https://stackabuse.com/guide-to-strings-in-python/](Author)
