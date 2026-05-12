@@ -39,7 +39,8 @@ externalLink: false
 
 ## Decodo
 
-- [How to Scrape Websites with PowerShell: A Complete Guide](decodo.com/blog/powershell-web-scraping) [[Author/Ghostwriter]]
+- [Golang Headless Browser: Complete chromedp Tutorial](https://decodo.com/blog/golang-headless-browser) [Author/Ghostwriter]
+- [How to Scrape Websites with PowerShell: A Complete Guide](decodo.com/blog/powershell-web-scraping) [Author/Ghostwriter]
 - [Scraping Multimedia Data for AI Training: Images, Video, Audio](https://decodo.com/blog/multimedia-data-scraping) [Author/Ghostwriter]
 - [The Ultimate Guide to Scraping eCommerce Websites: Tools, Techniques, and Best Practices](https://decodo.com/blog/scraping-ecommerce-websites) [Author/Ghostwriter]
 - [Web Scraping With Java: The Complete Guide](https://decodo.com/blog/web-scraping-java) [Author/Ghostwriter]
