@@ -34,11 +34,16 @@ externalLink: false
 
 ## Byteful
 
+- [Guide to Proxy Endpoints: Architecture, Flows, and API Gateways](https://byteful.com/blog/proxy-endpoints) [Author/Ghostwriter]
+- [HTTP vs. HTTPS Proxies: The Key Differences Explained Simply](https://byteful.com/blog/http-vs-https-proxies) [Author/Ghostwriter]
 - [Shared vs. Dedicated Proxies: What Matters Beyond Price](https://byteful.com/blog/shared-vs-dedicated-proxies) [Author/Ghostwriter]
 - [Understanding HTTP Proxy: Headers, Auth, Cache, and Setup](https://byteful.com/blog/understanding-http-proxy) [Author/Ghostwriter]
 
 ## Decodo
 
+- [429 Too Many Requests: What It Means and How To Fix It](https://decodo.com/faq/error-codes/error-429) [Author/Ghostwriter]
+- [HTTP 407 Proxy Authentication Required: Causes and Fixes](https://decodo.com/faq/error-codes/http-407) [Author/Ghostwriter]
+- [403 Forbidden Error and How to Avoid It](https://decodo.com/faq/error-codes/error-403) [Author/Ghostwriter]
 - [Golang Headless Browser: Complete chromedp Tutorial](https://decodo.com/blog/golang-headless-browser) [Author/Ghostwriter]
 - [How to Scrape Websites with PowerShell: A Complete Guide](decodo.com/blog/powershell-web-scraping) [Author/Ghostwriter]
 - [Scraping Multimedia Data for AI Training: Images, Video, Audio](https://decodo.com/blog/multimedia-data-scraping) [Author/Ghostwriter]
